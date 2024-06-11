@@ -56,6 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
 //             <h1>${details.name}</h1>
 //             <p><strong>Native Name:</strong> ${details.nativeName}</p>
 //             <p><strong>Population:</strong> ${details.population}</p>
+
 //             <p><strong>Region:</strong> ${details.region}</p>
 //             <p><strong>Subregion Region:</strong> ${details.subregion}</p>
 //             <p><strong>Capital:</strong> ${details.capital}</p>
